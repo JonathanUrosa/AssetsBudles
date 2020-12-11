@@ -1,0 +1,1 @@
+{"bundles":[{"bundleName":"explosiones","version":0,"crc":2225416289},{"bundleName":"images.hd","version":0,"crc":1409270125},{"bundleName":"images.sd","version":0,"crc":743462337},{"bundleName":"materialesefectosespeciales","version":0,"crc":2854612331},{"bundleName":"proyectiles","version":0,"crc":2720515784}]}

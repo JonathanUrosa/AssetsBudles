@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 985130425
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: images.sd
+      Dependencies: {}
+    Info_1:
+      Name: images.hd
+      Dependencies: {}
+    Info_2:
+      Name: proyectiles
+      Dependencies:
+        Dependency_0: materialesefectosespeciales
+    Info_3:
+      Name: materialesefectosespeciales
+      Dependencies: {}
+    Info_4:
+      Name: explosiones
+      Dependencies:
+        Dependency_0: materialesefectosespeciales

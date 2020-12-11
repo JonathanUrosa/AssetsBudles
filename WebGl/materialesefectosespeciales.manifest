@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2854612331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7a7f7b15640939a7225c4841b05c744
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8215722b766c6decafa3f90512650b44
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Plugins/EffectCore/materials/generic/default_ztestAlways_additive.mat
+- Assets/Plugins/EffectCore/materials/shapes/hitShape_ztestAlways_additive.mat
+- Assets/Plugins/EffectCore/materials/fire/muzzleflare_stylized_additive.mat
+- Assets/Plugins/EffectCore/materials/generic/fullCircleFat_ztestAlways_additive.mat
+- Assets/Plugins/EffectCore/materials/shapes/stylizedShapes_additive.mat
+- Assets/Plugins/EffectCore/materials/shapes/bulletShapes_alphaBlend.mat
+- Assets/Plugins/EffectCore/materials/fire/flarespark_additive.mat
+Dependencies: []

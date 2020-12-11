@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 2720515784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0192750edf9149df3f13cd8d7d202b5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 19270b82b61bcd87477d39f681ac0e05
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f30550f1c58a74cab36b20a6b4ab2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1af2d8d3d18867c4a8e33cab930e4886, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14fe9984834882c43b827e4197192a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83be428c064326c44a669ba36e728ed0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ProyectilEscopetaRojo.prefab
+- Assets/Resources/Proyectil.prefab
+- Assets/Resources/ProyectilAzul.prefab
+- Assets/Resources/ProyectilVerde.prefab
+- Assets/Resources/Proyectil_TrailRender.prefab
+- Assets/Resources/ProyectilVerdeAzul.prefab
+- Assets/Resources/ProyectilEscopeta.prefab
+- Assets/Resources/ProyectilOso.prefab
+- Assets/Resources/ProyectilMetralleta.prefab
+- Assets/Flashy_GoldFire_Small_Projectile.prefab
+Dependencies:
+- D:/respaldo g/juegos/respaldo/Zombis/Assets/StreamingAssets/WebGl/materialesefectosespeciales
